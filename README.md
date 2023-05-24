@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - I’m Benshan Mei from University of Chinese Academy of Sciences.
-- 😯 I‘m interested in research on Hardware-assited Security/Virtualization/RISC-V.
-- 🏷️ I‘m coding with C/C++/C#/Java/JavaScript/Rust/Python/Scala/Shell programming languages.
+- 🏷️ Programming Languages: C/C++/C#/Java/JavaScript/Rust/Python/Scala/Shell.
+- 😯 I‘m interested in Hardware-assited Security/Virtualization/RISC-V.
 - 🔭 I’m currently working on TEE related research...
 - 🌱 I’m currently learning Rust, QEMU/KVM, AMD SEV...
 - 👯 I’m looking to collaborate on QEMU/KVM...
