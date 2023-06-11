@@ -5,7 +5,8 @@
 - I’m Benshan Mei from University of Chinese Academy of Sciences.
 - 🏷️ Programming Languages: C/C++/C#/Java/JavaScript/Rust/Python/Matlab/Scala/Chisel/Verilog/Shell.
 - 🤣 I was working on in AI, ML related researches before.
-- 😯 I‘m interested in System Security and ChatGPT-assisted Coding now.
+- 😯 I‘m interested in System Security and ChatGPT-assisted Programming now.
+- 🤫 I'm currently working with ChatGPT in many technical areas.
 - 🔭 I’m currently working on Confidential Computing (CC) related research...
 - 🌱 I’m currently learning Rust, QEMU/KVM, AMD SEV...
 - 👯 I’m looking to collaborate on QEMU/KVM...
