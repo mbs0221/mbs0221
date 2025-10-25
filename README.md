@@ -54,7 +54,7 @@ The Road to Trust: Building Enclaves within Confidential VMs \
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 A Survey on Lightweight Hardware-assisted Isolation Mechanisms (轻量级硬件辅助隔离机制综述 in Chinese) \
-In Submission.
+[In Submission]
 
 ### Services
 
