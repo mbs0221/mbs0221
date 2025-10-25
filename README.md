@@ -22,33 +22,33 @@ I am passionate about building secure and efficient system architectures to enab
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
-[EI] The International Workshop on Data Security and Privacy (IEEE Data S\&P), 2025.
+The International Workshop on Data Security and Privacy (IEEE Data S\&P), 2025. [EI] 
 
 **Benshan Mei**, Saisai Xia, Wenhao Wang, Dongdai Lin \
 Cabin: Confining Untrusted Programs within Confidential VMs \
-[CCF-C, EI] The 26th International Conference on Information and Communications Security (ICICS), 2024.
+The 26th International Conference on Information and Communications Security (ICICS), 2024. [CCF-C, EI] 
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 SVSM-KMS: Safeguarding Keys for Cloud Services with Encrypted Virtualization \
-[IIE-C, EI] Science of Cyber Security: 6th International Conference (SciSec), 2024.
+Science of Cyber Security: 6th International Conference (SciSec), 2024. [IIE-C, EI] 
 
 **Benshan Mei**, Yitian Xu \
 Safe sample screening for regularized multi-task learning \
-[CCF-C, JCR-Q1] Knowledge-Based Systems, 2020.
+Knowledge-Based Systems, 2020. [CCF-C, JCR-Q1] 
 
 **Benshan Mei**, Yitian Xu \
 Multi-task $\nu$-twin support vector machines \
-[CCF-C, JCR-Q3] Neural Computing and Applications, 2020.
+Neural Computing and Applications, 2020. [CCF-C, JCR-Q3] 
 
 **Benshan Mei**, Yitian, Liu \
 Multi-task least squares twin support vector machine for classification \
-[CCF-C, JCR-Q2] Neurocomputing, 2019.
+Neurocomputing, 2019. [CCF-C, JCR-Q2] 
 
 #### Co-author
 
 Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
 The Road to Trust: Building Enclaves within Confidential VMs \
-[CCF-B] Network and Distributed System Security (NDSS) Symposium, 2025.
+Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-B] 
 
 #### Manuscripts
 
