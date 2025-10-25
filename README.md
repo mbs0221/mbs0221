@@ -59,5 +59,5 @@ A Survey on Lightweight Hardware-assisted Isolation Mechanisms (轻量级硬件�
 ### Services
 
 - **Reviewer**
-  - Engineering Applications of Artificial Intelligence (Since 2022)
-  - Knowledge-Based Systems (Since 2025)
+  - Engineering Applications of Artificial Intelligence (EAAI)
+  - Knowledge-Based Systems (KBS)
