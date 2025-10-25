@@ -22,7 +22,7 @@ I am passionate about building secure and efficient system architectures to enab
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
-[EI] The International Workshop on Data Security and Privacy (IEEE Data S\&P 2025), 2025.
+[EI] The International Workshop on Data Security and Privacy (IEEE Data S\&P), 2025.
 
 **Benshan Mei**, Saisai Xia, Wenhao Wang, Dongdai Lin \
 Cabin: Confining Untrusted Programs within Confidential VMs \
