@@ -26,11 +26,11 @@ VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
 
 **Benshan Mei**, Saisai Xia, Wenhao Wang, Dongdai Lin \
 Cabin: Confining Untrusted Programs within Confidential VMs \
-[CCF-C] The 26th International Conference on Information and Communications Security (ICICS), 2024.
+[CCF-C, EI] The 26th International Conference on Information and Communications Security (ICICS), 2024.
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 SVSM-KMS: Safeguarding Keys for Cloud Services with Encrypted Virtualization \
-[IIE-C] Science of Cyber Security: 6th International Conference (SciSec), 2024.
+[IIE-C, EI] Science of Cyber Security: 6th International Conference (SciSec), 2024.
 
 **Benshan Mei**, Yitian Xu \
 Safe sample screening for regularized multi-task learning \
