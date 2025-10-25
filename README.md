@@ -50,6 +50,12 @@ Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan,
 The Road to Trust: Building Enclaves within Confidential VMs \
 [CCF-B] Network and Distributed System Security (NDSS) Symposium, 2025.
 
+#### Manuscripts
+
+**Benshan Mei**, Wenhao Wang, Dongdai Lin \
+A Survey on Lightweight Hardware-assisted Isolation Mechanisms (轻量级硬件辅助隔离机制综述 in Chinese) \
+In Submission.
+
 ### Services
 
 - **Reviewer**
