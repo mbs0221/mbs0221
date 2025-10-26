@@ -40,7 +40,7 @@ Knowledge-Based Systems, 2020. [CCF-C, JCR-Q1]
 Multi-task $\nu$-twin support vector machines \
 Neural Computing and Applications, 2020. [CCF-C, JCR-Q3] 
 
-**Benshan Mei**, Yitian, Liu \
+**Benshan Mei**, Yitian Xu \
 Multi-task least squares twin support vector machine for classification \
 Neurocomputing, 2019. [CCF-C, JCR-Q2] 
 
@@ -51,6 +51,10 @@ The Road to Trust: Building Enclaves within Confidential VMs \
 Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-B] 
 
 #### Manuscripts
+
+**Benshan Mei**, Wenhao Wang, Dongdai Lin \
+DuneGuest: Privileged Execution of Guest Processes within Confidential VMs \
+[In Submission]
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 A Survey on Lightweight Hardware-assisted Isolation Mechanisms (轻量级硬件辅助隔离机制综述 in Chinese) \
