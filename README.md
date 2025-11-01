@@ -57,7 +57,7 @@ DuneGuest: Privileged Execution of Guest Processes within Confidential VMs \
 [In Submission]
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
-A Survey on Lightweight Hardware-assisted Isolation Mechanisms (轻量级硬件辅助隔离机制综述 in Chinese) \
+Lightweight Hardware-Assisted Isolation Mechanisms: A Comprehensive Survey \
 [In Submission]
 
 ### Services
