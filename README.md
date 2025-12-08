@@ -34,7 +34,7 @@ Science of Cyber Security: 6th International Conference (SciSec), 2024. [IIE-C, 
 
 **Benshan Mei**, Yitian Xu \
 Safe sample screening for regularized multi-task learning \
-Knowledge-Based Systems, 2020. [CCF-C, JCR-Q1] 
+Knowledge-Based Systems, 2020. [CCF-C, JCR-Q1, IF=7.6] 
 
 **Benshan Mei**, Yitian Xu \
 Multi-task $\nu$-twin support vector machines \
@@ -42,7 +42,7 @@ Neural Computing and Applications, 2020. [CCF-C, JCR-Q3]
 
 **Benshan Mei**, Yitian Xu \
 Multi-task least squares twin support vector machine for classification \
-Neurocomputing, 2019. [CCF-C, JCR-Q2] 
+Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0] 
 
 ### Co-author
 
