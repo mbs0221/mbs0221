@@ -47,7 +47,7 @@ Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0]
 
 Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
 The Road to Trust: Building Enclaves within Confidential VMs \
-Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-B] 
+Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A] 
 
 ### Manuscripts
 
