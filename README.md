@@ -56,7 +56,7 @@ Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-B]
 DuneGuest: Privileged Execution of Guest Processes within Confidential VMs \
 [In Submission]
 
-**Benshan Mei**, Wenhao Wang, Dongdai Lin \
+**Benshan Mei**, Wenhao Wang, Yubin Xia, Haibo Chen, Dongdai Lin \
 Lightweight Hardware-Assisted Isolation Mechanisms: A Comprehensive Survey \
 [In Submission]
 
