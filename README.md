@@ -17,11 +17,15 @@ I am passionate about building secure and efficient system architectures to enab
 
 ## Publications
 
-### First Author
+### Conference
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
 2025 IEEE 24rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2025. [EI] 
+
+Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
+The Road to Trust: Building Enclaves within Confidential VMs \
+Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A] 
 
 **Benshan Mei**, Saisai Xia, Wenhao Wang, Dongdai Lin \
 Cabin: Confining Untrusted Programs within Confidential VMs \
@@ -30,6 +34,8 @@ The 26th International Conference on Information and Communications Security (IC
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 SVSM-KMS: Safeguarding Keys for Cloud Services with Encrypted Virtualization \
 Science of Cyber Security: 6th International Conference (SciSec), 2024. [IIE-C, EI] 
+
+### Journal
 
 **Benshan Mei**, Yitian Xu \
 Safe sample screening for regularized multi-task learning \
@@ -43,12 +49,6 @@ Neural Computing and Applications, 2020. [CCF-C, JCR-Q3]
 Multi-task least squares twin support vector machine for classification \
 Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0] 
 
-### Co-author
-
-Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
-The Road to Trust: Building Enclaves within Confidential VMs \
-Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A] 
-
 ### Manuscripts
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
@@ -56,7 +56,7 @@ DuneGuest: Privileged Execution of Guest Processes within Confidential VMs \
 [In Submission]
 
 **Benshan Mei**, Wenhao Wang, Yubin Xia, Haibo Chen, Dongdai Lin \
-Lightweight Hardware-Assisted Isolation Mechanisms: A Comprehensive Survey \
+Lightweight Hardware-Assisted Isolation: A Survey \
 [In Submission]
 
 ## Services
