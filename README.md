@@ -21,7 +21,7 @@ I am passionate about building secure and efficient system architectures to enab
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
-2025 IEEE 24rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2025. [EI] 
+2025 IEEE 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2025. [EI] 
 
 Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
 The Road to Trust: Building Enclaves within Confidential VMs \
