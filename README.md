@@ -55,7 +55,7 @@ Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0]
 DuneGuest: Privileged Execution of Guest Processes within Confidential VMs \
 [In Submission]
 
-**Benshan Mei**, Wenhao Wang, Yubin Xia, Haibo Chen, Dongdai Lin \
+**Benshan Mei**, Wenhao Wang, Jinyu Gu, Yubin Xia, Haibo Chen, Dongdai Lin \
 Lightweight Hardware-Assisted Isolation: A Survey \
 [In Submission]
 
