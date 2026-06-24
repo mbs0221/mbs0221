@@ -59,6 +59,10 @@ DuneGuest: Privileged Execution of Guest Processes within Confidential VMs \
 Lightweight Hardware-Assisted Isolation: A Survey \
 [In Submission]
 
+Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
+virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone \
+[In Submission]
+
 ## Services
 
 - **Reviewer**
