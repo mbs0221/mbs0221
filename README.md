@@ -17,7 +17,7 @@ I am passionate about building secure and efficient system architectures to enab
 
 ## Publications
 
-### Conference
+### Journal & Conference
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
@@ -35,8 +35,6 @@ The 26th International Conference on Information and Communications Security (IC
 SVSM-KMS: Safeguarding Keys for Cloud Services with Encrypted Virtualization \
 Science of Cyber Security: 6th International Conference (SciSec), 2024. [IIE-C, EI] 
 
-### Journal
-
 **Benshan Mei**, Yitian Xu \
 Safe sample screening for regularized multi-task learning \
 Knowledge-Based Systems, 2020. [CCF-C, JCR-Q1, IF=7.6] 
@@ -52,16 +50,13 @@ Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0]
 ### Manuscripts
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
-DuneGuest: Privileged Execution of Guest Processes within Confidential VMs \
-[In Submission]
+DuneGuest: Privileged Execution of Guest Processes within Confidential VMs
 
 **Benshan Mei**, Wenhao Wang, Jinyu Gu, Yubin Xia, Haibo Chen, Dongdai Lin \
-Lightweight Hardware-Assisted Isolation: A Survey \
-[In Submission]
+Lightweight Hardware-Assisted Isolation: A Survey
 
 Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
-virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone \
-[In Submission]
+virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone
 
 ## Services
 
