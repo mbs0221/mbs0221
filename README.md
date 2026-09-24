@@ -50,7 +50,7 @@ Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0]
 ### Manuscripts
 
 **Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
-DuneGuest: Safe Privileged Execution within Confidential VMs
+DuneGuest: Safe Virtualized Processes within Confidential VMs
 
 **Benshan Mei**, Wenhao Wang, Jinyu Gu, Yubin Xia, Haibo Chen, Dongdai Lin \
 Lightweight Hardware-Assisted Isolation: A Survey
