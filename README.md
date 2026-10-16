@@ -19,6 +19,10 @@ I am passionate about building secure and efficient system architectures to enab
 
 ### Journal & Conference
 
+Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
+virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone
+IEEE Transaction on Computers (IEEE TC), 2026. [CCF-A, JCR-Q1, IF=4.9]. (Revised)
+
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
 2025 IEEE 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2025. [EI] 
@@ -52,11 +56,8 @@ Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0]
 **Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
 DuneGuest: Safe Virtualized Processes within Confidential VMs
 
-**Benshan Mei**, Wenhao Wang, Jinyu Gu, Yubin Xia, Haibo Chen, Dongdai Lin \
+**Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
 Lightweight Hardware-Assisted Isolation: A Survey
-
-Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
-virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone
 
 ## Services
 
