@@ -54,6 +54,9 @@ Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0]
 ### Manuscripts
 
 **Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
+NestedCoCo: Nested Confidential Containers without Nested Virtualization
+
+**Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
 DuneGuest: Safe Virtualized Processes within Confidential VMs
 
 **Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
