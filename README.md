@@ -21,7 +21,7 @@ I am passionate about building secure and efficient system architectures to enab
 
 Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
 virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone \
-IEEE Transaction on Computers (IEEE TC), 2026. [CCF-A, JCR-Q1, IF=4.9]. (Revised)
+IEEE Transaction on Computers (IEEE TC), 2026. [CCF-A, JCR-Q1, IF=4.9]. (Under Review)
 
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
