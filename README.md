@@ -19,17 +19,9 @@ I am passionate about building secure and efficient system architectures to enab
 
 ### Journal & Conference
 
-Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
-virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone \
-IEEE Transaction on Computers (IEEE TC), 2026. [CCF-A, JCR-Q1, IF=4.9]. (Under Review)
-
 **Benshan Mei**, Wenhao Wang, Dongdai Lin \
 VMPL-KMI: Protecting Kernel Module Integrity within Confidential VMs \
 2025 IEEE 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2025. [EI] 
-
-Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
-The Road to Trust: Building Enclaves within Confidential VMs \
-Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A] 
 
 **Benshan Mei**, Saisai Xia, Wenhao Wang, Dongdai Lin \
 Cabin: Confining Untrusted Programs within Confidential VMs \
@@ -51,13 +43,23 @@ Neural Computing and Applications, 2020. [CCF-C, JCR-Q3]
 Multi-task least squares twin support vector machine for classification \
 Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0] 
 
+### Co-authored
+
+Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
+virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone \
+IEEE Transaction on Computers (IEEE TC), 2026. [CCF-A, JCR-Q1, IF=4.9]. (Under Review)
+
+Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
+The Road to Trust: Building Enclaves within Confidential VMs \
+Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A] 
+
 ### Manuscripts
 
-**Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
+**Benshan Mei**, Dong Du, Yubin Xia, Haibo Chen \
 NestedCoCo: Nested Confidential Containers without Nested Virtualization
 
-**Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
-DuneGuest: Safe Virtualized Processes within Confidential VMs
+**Benshan Mei**, Dong Du, Yubin Xia, Haibo Chen \
+CVM-Dune: Safe Virtualized Processes within Confidential VMs
 
 **Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
 Lightweight Hardware-Assisted Isolation: A Survey
