@@ -59,7 +59,7 @@ Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A]
 NestedCoCo: Nested Confidential Containers without Nested Virtualization
 
 **Benshan Mei**, Dong Du, Yubin Xia, Haibo Chen \
-CVM-Dune: Safe Virtualized Processes within Confidential VMs, (In Submission)
+CVM-Dune: Safe Virtualized Processes within Confidential VMs, (*In Submission*)
 
 **Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
 Lightweight Hardware-Assisted Isolation: A Survey
