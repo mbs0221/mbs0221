@@ -47,7 +47,7 @@ Neurocomputing, 2019. [CCF-C, JCR-Q2, IF=6.0]
 
 Xiangyi Xu, Wenhao Wang, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, **Benshan Mei**, Zixuan Pang, Rui Hou, Yier Jin \
 virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone \
-IEEE Transaction on Computers (IEEE TC), 2026. [CCF-A, JCR-Q1, IF=4.9]. (Under Review)
+IEEE Transaction on Computers (IEEE TC), 2026. [CCF-A, JCR-Q1, IF=4.9]. (Minor Revision)
 
 Wenhao Wang, Linke Song, **Benshan Mei**, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou \
 The Road to Trust: Building Enclaves within Confidential VMs \
@@ -59,7 +59,7 @@ Network and Distributed System Security (NDSS) Symposium, 2025. [CCF-A]
 NestedCoCo: Nested Confidential Containers without Nested Virtualization
 
 **Benshan Mei**, Dong Du, Yubin Xia, Haibo Chen \
-CVM-Dune: Safe Virtualized Processes within Confidential VMs
+CVM-Dune: Safe Virtualized Processes within Confidential VMs, (In Submission)
 
 **Benshan Mei**, Dong Du, Jinyu Gu, Yubin Xia, Haibo Chen \
 Lightweight Hardware-Assisted Isolation: A Survey
